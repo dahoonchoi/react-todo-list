@@ -1,6 +1,8 @@
 @import 'utils';
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
 
 body{
     background: $oc-gray-1;
     margin: 0px;
+    font-family: 'Nanum Gothic', sans-serif;
 }
